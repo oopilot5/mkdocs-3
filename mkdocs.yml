@@ -1,0 +1,8 @@
+site_name: testmydocs
+nav:
+- Home: 脑洞.md
+- Documents:
+    - 地球编年史: 地球编年史结论.md
+    - 世界神话: note/世界神话故事关联.md
+theme:
+  name: readthedocs
