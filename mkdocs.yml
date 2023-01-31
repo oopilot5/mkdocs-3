@@ -1,8 +1,23 @@
-site_name: testmydocs
+site_name: MkDocs 试用
+site_author: 'X-Men'
+site_url: https://mkdocs.x-man.com
+site_description: 测试 mkdocs 的使用方法
+
+copyright: Copyright © 2023 [X-Men](https://www.x-men.com/)
+
+repo_name: 'oopilot5/test-mkdocs'
+repo_url: 'https://github.com/oopilot5/test-mkdocs'
+
 nav:
-- Home: 脑洞.md
+- Home: markdown语法简介.md
 - Documents:
     - 地球编年史: 地球编年史结论.md
     - 世界神话: note/世界神话故事关联.md
 theme:
-  name: readthedocs
+  name: material
+  language: 'zh'  # 配置语言
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
+markdown_extentions:
+  - admonition
