@@ -9,6 +9,7 @@ repo_name: 'oopilot5/test-mkdocs'
 repo_url: 'https://github.com/oopilot5/test-mkdocs'
 
 nav:
+  - index.md
   - Home: markdown语法简介.md
   - Documents:
     - 地球编年史: 地球编年史结论.md
@@ -17,7 +18,6 @@ theme:
   name: material
   language: 'zh'  #配置语言
 plugins:
-  - search:
-      separator: '[\s\u200b\-]'
+  - search
 markdown_extentions:
   - admonition #提示块
