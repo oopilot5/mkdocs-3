@@ -9,15 +9,14 @@ repo_name: 'oopilot5/test-mkdocs'
 repo_url: 'https://github.com/oopilot5/test-mkdocs'
 
 nav:
-- Home: markdown语法简介.md
-- Documents:
+  - Home: markdown语法简介.md
+  - Documents:
     - 地球编年史: 地球编年史结论.md
     - 世界神话: note/世界神话故事关联.md
 theme:
   name: material
-  language: 'zh'  # 配置语言
+  language: 'zh'  #配置语言
 plugins:
-  - search:
-      separator: '[\s\u200b\-]'
+  - search
 markdown_extentions:
-  - admonition
+  - admonition #提示块
