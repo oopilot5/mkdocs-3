@@ -17,6 +17,7 @@ theme:
   name: material
   language: 'zh'  #配置语言
 plugins:
-  - search
+  - search:
+      separator: '[\s\u200b\-]'
 markdown_extentions:
   - admonition #提示块
