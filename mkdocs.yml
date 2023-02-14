@@ -10,10 +10,10 @@ repo_url: 'https://github.com/oopilot5/test-mkdocs'
 
 nav:
   - Home: index.md
-  - markdown语法简介: markdown语法简介.md
+  - About: about.md
   - Documents:
-    - 地球编年史: 地球编年史结论.md
-    - 世界神话: note/世界神话故事关联.md
+    - Usage: chapters/usage.md
+    - Tutorial: chapters/tutorial.md
 theme:
   name: material
   language: 'zh'  #配置语言
