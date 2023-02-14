@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://mkdocs.x-man.com/</loc>
-         <lastmod>2023-02-13</lastmod>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.x-man.com/markdown%E8%AF%AD%E6%B3%95%E7%AE%80%E4%BB%8B/</loc>
-         <lastmod>2023-02-13</lastmod>
+         <loc>https://mkdocs.x-man.com/about/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.x-man.com/%E5%9C%B0%E7%90%83%E7%BC%96%E5%B9%B4%E5%8F%B2%E7%BB%93%E8%AE%BA/</loc>
-         <lastmod>2023-02-13</lastmod>
+         <loc>https://mkdocs.x-man.com/chapters/tutorial/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://mkdocs.x-man.com/note/%E4%B8%96%E7%95%8C%E7%A5%9E%E8%AF%9D%E6%95%85%E4%BA%8B%E5%85%B3%E8%81%94/</loc>
-         <lastmod>2023-02-13</lastmod>
+         <loc>https://mkdocs.x-man.com/chapters/usage/</loc>
+         <lastmod>2023-02-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
